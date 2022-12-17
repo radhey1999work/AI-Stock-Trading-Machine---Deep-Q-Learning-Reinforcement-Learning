@@ -1,6 +1,5 @@
 # autonomous_trading
-
-# Created by : Madhur Prashant (Project intern @ Microsoft)
+# Created by : Radhey Patel
 
 
 
