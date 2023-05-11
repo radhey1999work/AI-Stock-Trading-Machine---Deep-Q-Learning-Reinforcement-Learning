@@ -1,5 +1,4 @@
 # autonomous_trading
-# Created by : Radhey Patel
 
 
 
